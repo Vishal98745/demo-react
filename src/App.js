@@ -10,6 +10,9 @@ function App() {
     changes is comes on react
   </h1>
  <h6>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab maxime totam eaque id similique mollitia dolore accusantium tenetur animi! Consequatur, commodi? Quod, in. Unde officia adipisci eligendi tempore excepturi ipsa.</h6>
+<hr />
+ <h1>the changes after the project in the github</h1>
+ <h6>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolore, sit voluptatum vitae fuga quasi porro eligendi quaerat omnis aspernatur laboriosam, quo tempore quis fugit, illum laborum consectetur architecto temporibus aut explicabo optio minima. Sed molestias voluptatem maxime nobis error voluptate? Praesentium dolorum quis blanditiis, possimus similique quos voluptates voluptatum commodi. Excepturi tenetur accusantium iure illum iusto nobis nisi ad a, totam inventore fugiat beatae ratione vitae veniam similique odit ipsa enim asperiores saepe unde officiis dolorum sed, voluptatum quisquam. Perferendis, voluptas? Laboriosam fuga, porro cum necessitatibus placeat earum et quod nulla debitis ex libero tenetur suscipit quae quam, cupiditate incidunt?</h6>
     </>
   );
 }
